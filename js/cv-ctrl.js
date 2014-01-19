@@ -124,13 +124,13 @@ function CvCtrl($scope) {
                 fr : 'Chef de projet - développeur Web (Php - symfony)'}},
         {name: {en : '2012 - 2013',
                 fr : '2012 à 2013'},
-         title: {en : 'Webmaster for the scientific communication service my university',
+         title: {en : 'Webmaster for the scientific communication service of my university',
                  fr : 'Webmestre de la Fête de la science à l\'UTC'},
          desc: {en : 'Maintenance then full rewrite of the website',
                 fr : 'Maintenance puis réécriture complète du site'}},];
 
     $scope.title = {en : 'Computer Science Student', fr : 'Étudiant Ingénieur en informatique'};
-    $scope.subtitle = {en : 'Systems & Computer Networks', fr : 'Systèmes et Réseaux'};
+    $scope.subtitle = {en : 'Université de Technologie de Compiègne'};
     $scope.experience = {en : 'Experience', fr : 'Expérience'};
     $scope.education = {en : 'Education', fr : 'Formation'};
     $scope.skills = {en : 'Skills', fr : 'Compétences'};
@@ -138,7 +138,7 @@ function CvCtrl($scope) {
 
     $scope.expanderText = {en : 'Expand', fr : 'Développer'};
 
-    $scope.objective = {en : 'Doing the UTC mid-term internishp', fr : 'Effectuer le stage d\'assistant ingénieur UTC'};
+    $scope.objective = {en : 'Do my Master degree\'s mid-term internship in an innovative company', fr : 'Effectuer le stage d\'assistant ingénieur UTC'};
     $scope.objectiveTitle = {en : 'Objective : ', fr : 'Objectif : '};
 
     $scope.availableLanguages = [
