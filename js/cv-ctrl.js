@@ -138,13 +138,13 @@ function CvCtrl($scope) {
 
     $scope.expanderText = {en : 'Expand', fr : 'Développer'};
 
-    $scope.objective = {en : 'Do my Master degree\'s mid-term internship in an innovative company', fr : 'Effectuer le stage d\'assistant ingénieur UTC'};
+    $scope.objective = {en : 'Do my Master degree\'s mid-term internship in an innovative company (From september 2014 to february 2015)', fr : 'Effectuer le stage d\'assistant ingénieur UTC (Septembre 2014 à Février 2015)'};
     $scope.objectiveTitle = {en : 'Objective : ', fr : 'Objectif : '};
 
     $scope.availableLanguages = [
         {code : 'en', name : 'English'},
         {code : 'fr', name : 'Français'}];
-    $scope.pageLanguage = $scope.availableLanguages[1];
+    $scope.pageLanguage = $scope.availableLanguages[0];
 
     $scope.expandSkills = false;
     $scope.expandExps = false;
