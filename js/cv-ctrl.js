@@ -80,19 +80,12 @@ function CvCtrl($scope) {
          level: 4},];
 
     $scope.schoolsList = [
-        {name: {en : 'Since September 2013',
-                fr : 'Depuis Septembre 2013'},
+        {name: {en : 'Since September 2011',
+                fr : 'Depuis Septembre 2011'},
          title: {en : 'Université de Technologie de Compiègne (France) - Computer Science',
                  fr : 'UTC - Génie Informatique'},
          desc: {en : 'Computer Science, Mathematics, Humanities',
                 fr : 'Informatique, Mathématique, Sciences Humaines'},
-         level: 1},
-        {name: {en : '2011 - 2013',
-                fr : '2011 à 2013'},
-         title: {en : 'UTC - Common Core',
-                 fr : 'UTC - Tronc Commun'},
-         desc: {en : 'Mecanics, Mathematics, Computer Science, Humanities',
-                fr : 'Mécanique, Mathématique, Informatique, Sciences Humaines'},
          level: 1},
         {name: {en : '2008 - 2011',
                 fr : '2008 à 2011'},
