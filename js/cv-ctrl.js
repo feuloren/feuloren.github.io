@@ -18,8 +18,8 @@ function CvCtrl($scope) {
          desc: {en : 'Introduction class (6 mois)',
                 fr : 'Initiation (6 mois)'},
          level : 1},
-        {name: {en : 'Chinese',
-                fr : 'Chinois'},
+        {name: {en : 'Mandarin',
+                fr : 'Mandarin'},
          desc: {en : 'Introduction class (6 mois)',
                 fr : 'Initiation (6 mois)'},
          level : 1},
@@ -108,24 +108,23 @@ function CvCtrl($scope) {
          title: {en : 'Student association \'Le Polar\'',
                  fr : 'Association étudiante Le Polar'},
          desc: {en : 'Information systems manager, treasurer then president<br/>'+
+                'Reprography and sale of supplies; management of a 50 persons team.<br/>'+
                 'Main IT Projects:<br/><ul>'+
                 '  <li>Internal website developement</li>'+
-                '  <li>Online reading of older examination subject with collaborative correction system</li>'+
                 '  <li>Tickets printing, with barcodes</li>'+
                 '</ul>',
                 fr : 'Gestion du système informatique, Trésorerie puis Présidence<br/>'+
-                'Projets informatiques :'+
+                'Reprographie et vente de fournitures; gestion d\'une équipe de 50 personnes.<br/>'+
+                'Projets informatiques principaux :'+
                 '<ul>'+
                 '  <li>Développement du site web interne de l\'association</li>'+
-                '  <li>Consultation des anciens sujet d\'examen en ligne, avec système de correction collaboratif</li>'+
                 '  <li>Impression de tickets avec code-barre</li>'+
-                '  <li>Vérification d\'entrée à un évènement par smartphone Android</li>'+
 '</ul>'}},
         {name: {en : '2013'},
          title: {en : 'Creation of an online treasury management system for student associations',
                  fr : 'Création d\'un système de trésorerie en ligne pour les associations de l\'UTC'},
-         desc: {en : 'Project leader - Web developer (Php, symfony)',
-                fr : 'Chef de projet - développeur Web (Php - symfony)'}},
+         desc: {en : 'Project leader (4 persons) - Web developer (Php, symfony)',
+                fr : 'Chef de projet (4 personnes) - développeur Web (Php - symfony)'}},
         {name: {en : '2012 - 2013',
                 fr : '2012 à 2013'},
          title: {en : 'Webmaster for the scientific communication service of my university',
