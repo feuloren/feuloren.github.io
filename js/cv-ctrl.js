@@ -39,7 +39,7 @@ function CvCtrl($scope) {
                 fr : 'Utilisation pour plusieurs sites web dont ce CV (Jquery / Angular JS)'},
          level: 3},
         {name: {en : 'SQL'},
-         desc: {en : 'Lot of projects using Mysql or SQlite. PostreSQL and Oracle studied in class',
+         desc: {en : 'Lot of projects using Mysql or SQlite. PostgreSQL and Oracle studied in class',
                 fr : 'Nombreux projets utilisants Mysql ou SQlite. PostgreSQL et Oracle utilisé en cours'},
          level: 2},
         {name: {en : 'C'},
