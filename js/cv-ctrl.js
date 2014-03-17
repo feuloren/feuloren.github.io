@@ -144,6 +144,9 @@ function CvCtrl($scope) {
     $scope.objective = {en : 'Do my Master degree\'s mid-term internship in an innovative company (From september 2014 to february 2015)', fr : 'Effectuer le stage d\'assistant ingénieur UTC (Septembre 2014 à Février 2015)'};
     $scope.objectiveTitle = {en : 'Objective : ', fr : 'Objectif : '};
 
+    $scope.misc = {en : 'Miscellaneous', fr : 'Autre'};
+    $scope.drive = {en : 'Fench driving license, own car', fr : 'Permis B et voiture personnelle'};
+
     $scope.availableLanguages = [
         {code : 'en', name : 'English'},
         {code : 'fr', name : 'Français'}];
